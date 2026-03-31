@@ -47,8 +47,8 @@ To run this project, you will need:
 ---
 
 ## ## How to Use
-1.  **Enter City**: When prompted, type your current city (e.g., "Gurugram").
-2.  **Enter Location**: Provide a precise landmark or street address (e.g., "Cyber Hub").
+1.  **Enter City**: When prompted, type your current city (e.g., "Bhopal").
+2.  **Enter Location**: Provide a precise landmark or street address (e.g., "RKMP railway station").
 3.  **View Results**: The program will list nearby hospitals and calculate the driving distance to each.
 4.  **Optimal Choice**: The script will conclude by stating exactly which hospital is the nearest by road.
 
