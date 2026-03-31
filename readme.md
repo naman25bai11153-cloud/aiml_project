@@ -5,7 +5,7 @@ A Python-based application designed to locate the nearest hospitals in real-time
 ---
 
 ## 📋 Overview
-In emergency situations, finding the closest medical facility can be life-saving ⚡. This tool automates that process by:
+In emergency situations, finding the closest medical facility can be life-saving . This tool automates that process by:
 1.  **Geocoding** your specific address or landmark into GPS coordinates 🗺️.
 2.  **Searching** for all hospitals within a 5km radius using the OpenStreetMap database 🔍.
 3.  **Calculating** actual driving distances (not just straight lines) to find the most efficient route 🚗.
